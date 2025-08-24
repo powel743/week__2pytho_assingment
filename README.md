@@ -1,2 +1,2 @@
-#Week_2_assingment
+#Week2_assingment
 #data_structures
